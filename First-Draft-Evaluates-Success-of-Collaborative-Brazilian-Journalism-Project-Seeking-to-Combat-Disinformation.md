@@ -1,7 +1,7 @@
 ---
 title: First Draft Evaluates Success of Collaborative Brazilian Journalism Project Seeking to Combat Disinformation
 
-date: 2019-06-01 #this is the publication date, and controls display order.
+date: 2019-06-27 #this is the publication date, and controls display order.
 
 # description: meta description for post.
 
