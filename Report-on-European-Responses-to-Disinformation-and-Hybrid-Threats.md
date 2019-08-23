@@ -1,7 +1,7 @@
 ---
 title: Report on European Responses to Disinformation and Hybrid Threats
 
-date: 2019-08-13 #this is the publication date, and controls display order.
+date: 2019-08-12 #this is the publication date, and controls display order.
 
 # description: meta description for post.
 
